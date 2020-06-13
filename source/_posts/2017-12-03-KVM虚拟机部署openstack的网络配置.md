@@ -200,6 +200,8 @@ WantedBy=multi-user.target
 
 `# systemctl daemon-reload`
 
+`# systemctl start x11vnc.service`
+
 完成这四个步骤然后重启就可以了。（这个VNC的安装过程可以参考http://blog.csdn.net/longhr/article/details/51657610） 
 
 最后在你自己的电脑需要有一个vnc viewer的软件，可以在这里下载（链接：<https://pan.baidu.com/s/1o8kPqXG> 密码：v5r2） 

@@ -68,7 +68,7 @@
 
   </div>
   {% if theme.canvas_nest %}
-  <script type="text/javascript" count="100" src="//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js"></script>
+  <script type="text/javascript" count="70" src="//cdn.bootcss.com/canvas-nest.js/1.0.0/canvas-nest.min.js"></script>
   {% endif %}
   {% include '_scripts/vendors.swig' %}
   {% include '_scripts/commons.swig' %}
